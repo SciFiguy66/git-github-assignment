@@ -1,0 +1,2 @@
+Git is a place where you can save multiple versions of a program in branches to make large programming projects more manageable.
+GitHub is a place where you can create and upload code repositories to share with others to make team programming projects easier to manage.
