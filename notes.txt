@@ -2,3 +2,5 @@ Git is a place where you can save and manage multiple versions of your code on s
 GitHub is a place where you can create and share your code repositories with others. It makes collaborating with teams on projects much easier.
 
 Branching makes it easy to sort the different versions of your code. you can have a main branch to store the whole programming project, and then you can have branches off of that branch for changing different areas of the code.
+
+Pull requests are basically requests from others to change/update something. Usually it is code and bug fixes or new features being added. 
